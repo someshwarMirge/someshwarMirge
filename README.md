@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Hi+there!,+I'm+Someshwar+Mirge;Full+Stack+Developer;Open+Source+Enthusiast;React+JS+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Hi+there!,+I'm+Someshwar+Mirge;Full+Stack+Developer;Open+Source+Enthusiast;React+JS+Specialist" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://view-counter.api.fnkr.net/v1/counter/github/someshwarMirge?color=00D1FF" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=someshwarmirge&color=00D1FF&style=flat-square" alt="Visitor Count" />
 </p>
 
 <p align="center">
@@ -23,8 +23,8 @@
 ### ⚡ **GitHub Performance Dashboard**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=someshwarMirge&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwarMirge&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=someshwarMirge&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=someshwarMirge&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=someshwarMirge&theme=radical&no-bg=false&no-frame=false&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=someshwarMirge&theme=radical&no-bg=false&no-frame=false" alt="Trophies" />
   </a>
 </p>
 
@@ -60,14 +60,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=someshwarMirge&repo=someshwarMirge&theme=radical" alt="Repo Pin" />
   </a>
 </div>
-
----
-
-### 🐍 **Contribution Snake**
-<p align="center">
-  <!-- This is a placeholder. You need to set up the GitHub Action to generate this animation! -->
-  <img src="https://raw.githubusercontent.com/someshwarMirge/someshwarMirge/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
